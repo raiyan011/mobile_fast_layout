@@ -1,0 +1,21 @@
+.header, .hero, .body, .bar, .footer{
+	background-color:#1EAAA0;
+	margin-bottom: 12px;
+}
+.box{
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	height:80px;
+	background-color:#072B5B;
+	margin-bottom: 8px;
+	margin-top: 8px;
+}
+.aqua{
+	background-color: aqua;
+	color: black;
+}
+.red{
+	background-color: red;
+}
